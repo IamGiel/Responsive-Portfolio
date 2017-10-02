@@ -16,7 +16,7 @@
 
 /*header section*/
 #yourName {
-	position: relative;
+    position: relative;
     display: inline-block;
     height: 66px;
     width: 179px;
@@ -25,7 +25,7 @@
     padding-bottom: 5px;
     margin-left: 147px;
     margin-bottom: 0px;
-    margin-top: 0px;
+    margin-top: -12px;
 }
 
 /*actual name*/
@@ -166,6 +166,9 @@ a:hover {
     background-color: white;
     height: 470px;
     width: 650px;
+    border-color: #d9d9d9;
+    border-style: solid;
+    border-width: thin;
 }
 
 /* white box that contains the icons */
@@ -180,6 +183,9 @@ a:hover {
 	
 	height:200px;
 	width:270px;
+    border-color: #d9d9d9;
+    border-style: solid;
+    border-width: thin;
 }
 /* for portfolio only */
 #connectMeBox-portfolio {
@@ -326,6 +332,9 @@ h5 {
 
 	height:75%%;
 	width:650px;
+    border-color: #d9d9d9;
+    border-style: solid;
+    border-width: thin;
 }
 
 #Photo-Portfolio {
@@ -636,7 +645,7 @@ textarea {
     padding-bottom: 5px;
     margin-left: 52px;
     margin-bottom: 0px;
-    margin-top: 0px;
+    margin-top: -12px;
 }
 
     #navs {
@@ -670,10 +679,10 @@ textarea {
     display: block;
     background-color: white;
     height: 200px;
-    width: 685px;
+    width: 681px;
     position: relative;
-    top: 496px;
-    right: 734px;
+    top: 508px;
+    right: 733px;
     border-color: #d9d9d9;
     border-style: solid;
     border-width: thin;
@@ -785,7 +794,7 @@ textarea {
     padding-bottom: 5px;
     margin-left: 147px;
     margin-bottom: 0px;
-    margin-top: 0px;
+    margin-top: -12px;
 }
 
     #navs {
